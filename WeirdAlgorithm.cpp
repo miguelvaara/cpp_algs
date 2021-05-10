@@ -1,4 +1,4 @@
-// Weird Algorithm
+// Weird Algorithm / mika.vaara@helsinki.fi
 
 #include <iostream>
 #include <list>
